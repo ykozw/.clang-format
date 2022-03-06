@@ -1,0 +1,23 @@
+---
+BasedOnStyle: Google
+AccessModifierOffset: '-4'
+AllowShortIfStatementsOnASingleLine: Never
+AlwaysBreakAfterReturnType: None
+AlwaysBreakBeforeMultilineStrings: 'false'
+AlwaysBreakTemplateDeclarations: 'Yes'
+BinPackArguments: 'true'
+BinPackParameters: 'true'
+BreakBeforeBinaryOperators: None
+BreakBeforeBraces: Allman
+BreakStringLiterals: 'true'
+ColumnLimit: '100'
+CompactNamespaces: 'false'
+Cpp11BracedListStyle: 'true'
+FixNamespaceComments: 'true'
+IndentCaseLabels: 'false'
+IndentWidth: '4'
+Language: Cpp
+MaxEmptyLinesToKeep: '0'
+SpaceAfterCStyleCast: 'false'
+SpaceAfterLogicalNot: 'false'
+SpaceAfterTemplateKeyword: 'false'
