@@ -1,4 +1,4 @@
----
+# https://zed0.co.uk/clang-format-configurator/ にて設定
 BasedOnStyle: Google
 AccessModifierOffset: '-4'
 AllowShortIfStatementsOnASingleLine: Never
